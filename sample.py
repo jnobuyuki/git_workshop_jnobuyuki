@@ -1,1 +1,1 @@
-print "Git/github workshop"
+print "Git workshop"
